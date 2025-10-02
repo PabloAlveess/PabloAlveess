@@ -7,13 +7,13 @@
 ---
 
 
- <h1> Hello 👋 </h1>
+ <h1> Olá! 👋 </h1>
 
-My name is Pablo, and I am a student at the **Federal Institute of Mato Grosso do Sul.**
+Meu nome é Pablo e sou aluno do **Instituto Federal de Mato Grosso do Sul.**
 
 ---
 
-## 🛠️ Languages and Technologies i know
+## 🛠️ Linguagens e Tecnologias que conheço
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -49,7 +49,7 @@ My name is Pablo, and I am a student at the **Federal Institute of Mato Grosso d
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PabloDaMaria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -58,7 +58,7 @@ My name is Pablo, and I am a student at the **Federal Institute of Mato Grosso d
 
 ---
 
-## 🌐 Social Media
+## 🌐 Redes Sociais
 
 <div align="left">
   <a href="https://www.instagram.com/pabllo.v7" target="_blank">
