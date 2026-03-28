@@ -1,6 +1,8 @@
-# Olá, eu sou o Pablo! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Pablo%20Alves&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
-### Desenvolvedor Full Stack | Entusiasta de Tecnologia & Futuro Acadêmico de Direito
+### Desenvolvedor Full Stack | Entusiasta de Tecnologia & Acadêmico de Direito
 
 Sou de Nova Andradina, MS, tenho 18 anos.
 
@@ -33,14 +35,7 @@ Sou de Nova Andradina, MS, tenho 18 anos.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloAlveess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlveess&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+    
 
 ---
 
