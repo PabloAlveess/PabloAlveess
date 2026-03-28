@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Pablo%20Alves&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-### Desenvolvedor Full Stack | Entusiasta de Tecnologia & Acadêmico de Direito
+### Desenvolvedor Full Stack | Entusiasta de Tecnologia.
 
 Sou de Nova Andradina, MS, tenho 18 anos. Gosto muito de tecnologia.
 
